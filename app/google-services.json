@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092424350394",
+    "project_id": "textrecognitionml-17fc6",
+    "storage_bucket": "textrecognitionml-17fc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092424350394:android:6dff6c66fbbbd4ef0e6083",
+        "android_client_info": {
+          "package_name": "com.manikumaradapala.textrecognitionml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092424350394-80r4ra9uqnenr6p1mtjhs9pjgcdfcfq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAHbpE3LBMFV1w4IpuYH-D1PW5e_2cxH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092424350394-80r4ra9uqnenr6p1mtjhs9pjgcdfcfq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
